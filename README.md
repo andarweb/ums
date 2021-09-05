@@ -6,4 +6,4 @@ We will be using this application to deploy using CI/CD (Jenkins and Elastic Bea
 
 playing with local Git repository and Remote repository
 
-checking jenkins github webhook
+checking jenkins github webhook with new EC2 security group
